@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 15:22",
+  "updated": "2026-11-21 16:18",
   "days": [
     {
       "date": "2026-11-21",
@@ -7,6 +7,11 @@
       "tasks": [
         {
           "title": "たくまはTMノートのリポジトリを作っているのか？",
+          "category": "important",
+          "done": true
+        },
+        {
+          "title": "たくまは音声入力の記事を完成させているのか？",
           "category": "important",
           "done": true
         },
@@ -25,13 +30,7 @@
     {
       "date": "2026-11-22",
       "label": "11月22日（日）",
-      "tasks": [
-        {
-          "title": "たくまは音声入力の記事を完成させているのか？",
-          "category": "important",
-          "done": false
-        }
-      ]
+      "tasks": []
     }
   ]
 }
