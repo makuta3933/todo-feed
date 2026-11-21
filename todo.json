@@ -1,36 +1,57 @@
 {
-  "updated": "2026-11-21 16:18",
+  "updated": "2026-11-22 08:00",
   "days": [
     {
-      "date": "2026-11-21",
-      "label": "11月21日（土）",
+      "date": "2026-11-22",
+      "label": "11月22日（日）",
       "tasks": [
         {
-          "title": "たくまはTMノートのリポジトリを作っているのか？",
+          "title": "たくまは記事構成の企画会議をやっているのか？",
           "category": "important",
-          "done": true
+          "done": false
         },
         {
-          "title": "たくまは音声入力の記事を完成させているのか？",
-          "category": "important",
-          "done": true
-        },
-        {
-          "title": "たくまはゆる兄さんのタスクを応用させているのか？",
+          "title": "たくまはモッピーのポイントを引き出しているのか？",
           "category": "skim",
           "done": false
         },
         {
-          "title": "たくまは部屋の掃除をしているのか？",
+          "title": "たくまは美容室の時間をToDoリストに入れているのか？",
           "category": "skim",
+          "done": true
+        },
+        {
+          "title": "たくまはGmailを追加で接続できるか調べているのか？",
+          "category": "skim",
+          "done": true
+        },
+        {
+          "title": "たくまはChatGPTのチャットとワークの制限の違いを調べているのか？",
+          "category": "skim",
+          "done": false
+        },
+        {
+          "title": "たくまは16時ぐらいからClassic6をやっているのか？",
+          "category": "play",
+          "done": false
+        },
+        {
+          "title": "たくまは荷重6kgで5回×3セットと、11kgダンベルでフレンチプレスとショルダープレスを5回×3セットやっているのか？",
+          "category": "life",
           "done": false
         }
       ]
     },
     {
-      "date": "2026-11-22",
-      "label": "11月22日（日）",
-      "tasks": []
+      "date": "2026-11-23",
+      "label": "11月23日（月）",
+      "tasks": [
+        {
+          "title": "たくまは14時に美容室へ行っているのか？",
+          "category": "life",
+          "done": false
+        }
+      ]
     }
   ]
 }
