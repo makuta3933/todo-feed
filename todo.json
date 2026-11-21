@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22 08:00",
+  "updated": "2026-11-22 08:01",
   "days": [
     {
       "date": "2026-11-22",
@@ -28,7 +28,7 @@
         {
           "title": "たくまはChatGPTのチャットとワークの制限の違いを調べているのか？",
           "category": "skim",
-          "done": false
+          "done": true
         },
         {
           "title": "たくまは16時ぐらいからClassic6をやっているのか？",
