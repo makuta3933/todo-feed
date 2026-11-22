@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22 08:31",
+  "updated": "2026-11-22 12:50",
   "days": [
     {
       "date": "2026-11-22",
@@ -49,6 +49,11 @@
         {
           "title": "たくまは14時に美容室へ行っているのか？",
           "category": "life",
+          "done": false
+        },
+        {
+          "title": "たくまはnoteの記事を完成させているのか？",
+          "category": "important",
           "done": false
         }
       ]
