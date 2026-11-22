@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22 14:55",
+  "updated": "2026-11-23 08:38",
   "days": [
     {
       "date": "2026-11-22",
@@ -54,6 +54,21 @@
         {
           "title": "たくまはnoteの記事を完成させているのか？",
           "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまはDラボのMCPを導入しているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは大塚アミさんの100日チャレンジの本の読書メモを残しているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは隙間時間で『ChatGPTはどのように動いているのか？』を読んでいるのか？",
+          "category": "skim",
           "done": false
         }
       ]
