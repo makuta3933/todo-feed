@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 11:40",
+  "updated": "2026-11-27 06:22",
   "days": [
     {
       "date": "2026-11-22",
@@ -69,6 +69,37 @@
         {
           "title": "たくまは隙間時間で『ChatGPTはどのように動いているのか？』を読んでいるのか？",
           "category": "skim",
+          "done": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "label": "11月27日（金）",
+      "tasks": [
+        {
+          "title": "たくまは記事を書く準備をしているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは認定試験を頑張っているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは質問の練習をしているのか？",
+          "category": "skim",
+          "done": false
+        },
+        {
+          "title": "たくまはChatGPTのモデルごとの精度をチェックしているのか？",
+          "category": "skim",
+          "done": false
+        },
+        {
+          "title": "たくまは背中のトレーニングを行っているのか？",
+          "category": "life",
           "done": false
         }
       ]
