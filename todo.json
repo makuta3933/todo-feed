@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 19:07",
+  "updated": "2026-11-27 19:11",
   "days": [
     {
       "date": "2026-11-22",
@@ -111,6 +111,11 @@
         {
           "title": "たくまはAI疲労の記事を完成させているのか？",
           "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは質問の練習をしているのか？",
+          "category": "skim",
           "done": false
         }
       ]
