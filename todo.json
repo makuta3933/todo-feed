@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28 07:29",
+  "updated": "2026-11-28 11:50",
   "days": [
     {
       "date": "2026-11-22",
@@ -117,6 +117,32 @@
           "title": "たくまは質問の練習をしているのか？",
           "category": "skim",
           "done": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "label": "11/29（日）",
+      "tasks": [
+        {
+          "title": "たくまはAI疲労の記事を公開しているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは書き出しを調整しているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは「AI丸投げする方法」の記事の企画会議をしているのか？",
+          "category": "important",
+          "done": false
+        },
+        {
+          "title": "たくまは質問の練習をしているのか？",
+          "category": "skim",
+          "done": false
         }
       ]
     }
